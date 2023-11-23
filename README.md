@@ -24,8 +24,6 @@ https://www.linkedin.com/in/felipe-muner/
 
 ![](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
-![](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
-
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ![](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions)
