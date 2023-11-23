@@ -28,9 +28,9 @@ https://www.linkedin.com/in/felipe-muner/
 
 blockchain technologies, AI (GPT, agents) to enhance web development and digital interactions.
 
-## I’m looking to collaborate on ...
+## I’m looking to collaborate with ...
 
-work with a great team where people together will achieve the dreams faster while having fun.
+people who are passionate about what they do and want to make a difference in the world.
 
 ## 💬 Ask me about ...
 
