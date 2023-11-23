@@ -1,15 +1,19 @@
-👋 Hi there, I'm [Your Name]!
+👋 Hi there, I'm Felipe Muner!
+
 🚀 About Me
 I'm a passionate Full-Stack Web Developer with 5 years of experience, specializing in Next.js, React, Node.js, Express, Tailwind, and MUI. I love building scalable, responsive, and user-friendly web applications.
 
 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+
 ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
 ![](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
 ![](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![](https://img.shields.io/badge/-MUI-black?style=flat-square&logo=material-ui)
 
 🌱 I’m currently learning ...
 [Exploring blockchain, AI (GPT, agents) to enhance web development and digital interactions.]
@@ -24,7 +28,9 @@ I’m looking to collaborate on ...
 How to travel and work remotely to achieve a better life balance.
 
 📫 How to reach me:
+
 felipe.muner@gmail.com
+
 https://www.linkedin.com/in/felipe-muner/
 
 ⚡ Fun fact:
