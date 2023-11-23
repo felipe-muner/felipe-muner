@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Felipe Muner!
 
-### I'm a passionate Full-Stack Web Developer with 10 years of experience. I love to work remote with people from everywhere and while we chase our dreams we learn a lot of each other cultures and different viewpoints.
+#### I am a passionate Full-Stack Web Developer with 10 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective pursuit of professional goals but also enriches our understanding of different cultures and viewpoints.
 
 <img src="./code.gif" width="300" height="200"/>
 
