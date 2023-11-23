@@ -12,7 +12,7 @@ https://www.linkedin.com/in/felipe-muner/
 
 ## 🔧 Technologies & Tools
 
-<div style="display:flex; flex-wrap: wrap;">
+<div style="display:flex; flex-wrap: wrap; gap: 20px;">
 
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
