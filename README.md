@@ -3,6 +3,7 @@
 I'm a passionate Full-Stack Web Developer with 5 years of experience, specializing in Next.js, React, Node.js, Express, Tailwind, and MUI. I love building scalable, responsive, and user-friendly web applications.
 
 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
