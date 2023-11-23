@@ -19,14 +19,11 @@ https://www.linkedin.com/in/felipe-muner/
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" width="140" height="30" />
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="140" height="30" />
 <img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="140" height="30" />
-
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" width="140" height="30" />
-
-<img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="140" height="30" />
 
 ## 🌱 I’m currently learning ...
 
