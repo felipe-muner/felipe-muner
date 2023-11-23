@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Felipe Muner!
 
+<img src="./main-text.svg">
+
 ## 🚀 About Me
 
 I'm a passionate Full-Stack Web Developer with 10 years of experience. I love to work remote with people from everywhere and while we chase our dreams we learn a lot of each other cultures and different viewpoints.

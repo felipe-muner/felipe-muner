@@ -1,0 +1,32 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the gradient -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:blue;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:green;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Add text -->
+  <text fill="url(#gradient)" x="50" y="50" font-family="Verdana" font-size="20" id="text">Felipe Muner</text>
+
+  <!-- Add animation with CSS -->
+  <style>
+    #text {
+      animation: changeText 4s infinite;
+    }
+
+    @keyframes changeText {
+
+      0%,
+      25% {
+        content: "Felipe Muner";
+      }
+
+      50%,
+      75% {
+        content: "FULL STACK DEVELOPER";
+      }
+    }
+  </style>
+</svg>
