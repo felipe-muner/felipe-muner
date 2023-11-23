@@ -27,6 +27,7 @@ https://www.linkedin.com/in/felipe-muner/
 <img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="140" height="30" />
 </div>
+
 ## 🌱 I’m currently learning ...
 
 blockchain technologies, AI (GPT, agents) to enhance web development and digital interactions.
