@@ -12,8 +12,6 @@ https://www.linkedin.com/in/felipe-muner/
 
 ## 🔧 Technologies & Tools
 
-<div style="background:white; padding: 20px; border-radius:10px;">
-
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css" width="140" height="30" />
@@ -25,6 +23,8 @@ https://www.linkedin.com/in/felipe-muner/
 <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="140" height="30" />
 <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" width="140" height="30" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="140" height="30" />
 
 ## 🌱 I’m currently learning ...
 
