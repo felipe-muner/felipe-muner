@@ -2,6 +2,8 @@
 
 ### I'm a passionate Full-Stack Web Developer with 10 years of experience. I love to work remote with people from everywhere and while we chase our dreams we learn a lot of each other cultures and different viewpoints.
 
+<img src="./code.gif" width="300" height="200"/>
+
 <div style="display:flex; flex-wrap: wrap; gap: 20px; row-gap:20px;">
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
