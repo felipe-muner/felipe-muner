@@ -2,8 +2,6 @@
 
 #### I am a passionate Full-Stack Web Developer with 10 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective pursuit of professional goals but also enriches our understanding of different cultures and viewpoints.
 
-<img src="./code.gif" width="300" height="200"/>
-
 <div style="display:flex; flex-wrap: wrap; gap: 20px; row-gap:20px;">
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
@@ -48,3 +46,7 @@ how to travel and work remotely to achieve a better life balance.
 ## ⚡ Fun fact:
 
 I've been traveling and working to 30+ countries and lived in 5 of them. I'm a big fan of the outdoors, love to hitchhiking, yoga, sunrise and sunset, and a good cup of coffee.
+
+
+## Let's code, let's do it
+<img src="./code.gif" width="300" height="200"/>
