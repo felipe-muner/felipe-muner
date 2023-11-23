@@ -14,17 +14,17 @@ https://www.linkedin.com/in/felipe-muner/
 
 <div style="background:white; padding: 20px; border-radius:10px;">
 
-<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="120" />
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="120" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css" width="120" />
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" width="120" />
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" width="120" />
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="120" />
-<img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="120" />
-<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" width="120" />
-<img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion" width="120" />
-<img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="120" />
-<img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="120" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" width="140" height="30" />
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="140" height="30" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="140" height="30" />
 
 ## 🌱 I’m currently learning ...
 
@@ -36,7 +36,7 @@ people who are passionate about what they do and want to make a difference in th
 
 ## 💬 Ask me about ...
 
-How to travel and work remotely to achieve a better life balance.
+how to travel and work remotely to achieve a better life balance.
 
 ## 📈 My GitHub Stats
 
