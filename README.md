@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Web Developer with 10 years of experience, specializing in Next.js, React, Node.js, Express, Tailwind, and MUI. I love building scalable, responsive, and user-friendly web applications.
+I'm a passionate Full-Stack Web Developer with 10 years of experience. I love to work remote with people from everywhere and while we chase our dreams we learn a lot of each other cultures and different viewpoints.
 
 ## 📫 How to reach me:
 
