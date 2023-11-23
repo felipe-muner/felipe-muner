@@ -24,7 +24,19 @@ https://www.linkedin.com/in/felipe-muner/
 
 ![](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
-</div>
+![](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
+
+![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+![](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions)
+
+![](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+![](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+
+![](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+
+![](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
 
 ## 🌱 I’m currently learning ...
 
