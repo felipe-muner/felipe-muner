@@ -40,7 +40,9 @@ people who are passionate about what they do and want to make a difference in th
 
 how to travel and work remotely to achieve a better life balance.
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
+
+<img src="https://github-profile-trophy.vercel.app/?username=felipe-muner">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-muner">
 
