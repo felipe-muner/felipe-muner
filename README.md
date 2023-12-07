@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Felipe Muner!
 
-#### I am a passionate Full-Stack Web Developer with 10 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective pursuit of professional goals but also enriches our understanding of different cultures and viewpoints.
+#### I am a passionate Full-Stack Web Developer with 8 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective pursuit of professional goals but also enriches our understanding of different cultures and viewpoints.
 
 <div style="display:flex; flex-wrap: wrap; gap: 20px; row-gap:20px;">
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
