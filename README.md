@@ -3,18 +3,19 @@
 #### I am a passionate Full-Stack Web Developer with 8 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective pursuit of professional goals but also enriches our understanding of different cultures and viewpoints.
 
 <div style="display:flex; flex-wrap: wrap; gap: 20px; row-gap:20px;">
-    <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack" width="140" height="30" />
-    <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord" width="140" height="30" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" width="140" height="30" />
+<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" width="140" height="30" />
+
 </div>
 
 ## 📫 How to reach me:
