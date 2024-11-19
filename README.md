@@ -3,18 +3,18 @@
 #### I am a passionate Full-Stack Web Developer with 8 years of experience. I thrive in remote work environments, collaborating with people from diverse backgrounds. This not only fuels our collective[...]
 
 <div style="display:flex; flex-wrap: wrap; gap: 20px; row-gap:20px;">
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white" />
+    <img style="border-radius: 8px;" src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" />
 </div>
 
 ## 📫 How to reach me:
