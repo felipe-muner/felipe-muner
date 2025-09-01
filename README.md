@@ -20,7 +20,7 @@
 
 ## 📫 How to reach me:
 
-https://felipemuner.com
+https://felipemuner.work
 
 felipe.muner@gmail.com
 
